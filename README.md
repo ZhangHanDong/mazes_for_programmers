@@ -1,3 +1,6 @@
+ ![cover](./images/cover.png)
+
+
 # mazes_for_programmers
 
 翻译日常以及出版后的勘误
