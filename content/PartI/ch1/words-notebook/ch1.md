@@ -150,7 +150,49 @@ adj. 俏皮的；漂亮的
 n. 俏皮话
 俚语： 棒
 
-### 短语
+oddity ['ɑdəti]
+n. 奇异；古怪；怪癖
+
+trivial['trɪvɪəl]
+adj. 不重要的，琐碎的；琐细的
+琐碎的；不重要的，无关紧要的；无足轻重的，微不足道的
+【数学】数学上最简单的，平凡的，所有变元都为零的
+【生物学】种的
+(人)浅薄的
+[罕用语]平凡的；平常的；陈腐的
+
+subtle ['sʌtl]
+adj. 微妙的；精细的；敏感的；狡猾的；稀薄的
+
+blatant['bleɪt(ə)nt]
+adj. 喧嚣的；公然的；炫耀的；俗丽的
+吵嚷的，喧闹的，吼叫的，大喊大叫的
+炫耀的；显眼的，惹人注目的；刺眼的；俗丽的
+非常明显的；露骨的，公然的
+[书面语](如羊)咩咩叫的，哞哞叫的，鸣叫的
+
+dial['daɪəl]
+n. 转盘；刻度盘；钟面
+vi. 拨号
+vt. 给…拨号打电话
+n. (Dial)人名；(英)戴尔
+
+notch  [nɑtʃ]
+n. 刻痕，凹口；等级；峡谷
+vt. 赢得；用刻痕计算；在…上刻凹痕
+
+adjacent [ə'dʒesnt]
+adj. 邻近的，毗连的
+
+sketch [skɛtʃ]
+n. 素描；略图；梗概
+vt. 画素描或速写
+vi. 画素描或速写
+
+involve  [ɪn'vɑlv] 
+vt. 包含；牵涉；使陷于；潜心于
+
+### 短语or例句
 
 get the ball rolling   让球滚动，意味着，让事情启动
 
@@ -165,3 +207,9 @@ lies just  恰好位于
 Come on, my man, we have to be taking care of business. 嘿，哥们，咱们来谈点正经事。
 
 is simply to  仅仅是
+
+The monitor is really a notch above us.班长确实比我们略胜一筹。
+
+manages to  设法
+
+jump right in 适时的介入其中
